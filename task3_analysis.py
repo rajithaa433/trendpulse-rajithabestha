@@ -1,85 +1,80 @@
 import pandas as pd
 import numpy as np
+import os
 
 # -------------------------------
-# Step 1: Load Cleaned CSV
+# 1. LOAD AND EXPLORE DATA
 # -------------------------------
 
 file_path = "data/trends_clean.csv"
 
 df = pd.read_csv(file_path)
 
-print(f"Loaded {len(df)} cleaned stories from {file_path}\n")
+print(f"Loaded data: {df.shape}")
+
+print("\nFirst 5 rows:")
+print(df.head())
+
+# Average values
+avg_score = df["score"].mean()
+avg_comments = df["num_comments"].mean()
+
+print(f"\nAverage score   : {avg_score:.2f}")
+print(f"Average comments: {avg_comments:.2f}")
+
 
 # -------------------------------
-# Step 2: Basic Overview
+# 2. BASIC ANALYSIS USING NUMPY
 # -------------------------------
 
-# Display first 5 rows
-print("First 5 rows:")
-print(df.head(), "\n")
+scores = df["score"].values
 
-# Summary statistics
-print("Summary statistics:")
-print(df.describe(), "\n")
+mean_score = np.mean(scores)
+median_score = np.median(scores)
+std_score = np.std(scores)
 
-# -------------------------------
-# Step 3: Category Analysis
-# -------------------------------
+max_score = np.max(scores)
+min_score = np.min(scores)
 
-print("Stories per category:")
+print("\n--- NumPy Stats ---")
+print(f"Mean score   : {mean_score:.2f}")
+print(f"Median score : {median_score:.2f}")
+print(f"Std deviation: {std_score:.2f}")
+print(f"Max score    : {max_score}")
+print(f"Min score    : {min_score}")
+
+# Category with most stories
 category_counts = df["category"].value_counts()
-print(category_counts, "\n")
-
-# -------------------------------
-# Step 4: Top Performing Stories
-# -------------------------------
-
-print("Top 5 stories by score:")
-top_stories = df.sort_values(by="score", ascending=False).head(5)
-print(top_stories[["title", "score"]], "\n")
-
-# -------------------------------
-# Step 5: NumPy Analysis
-# -------------------------------
-
-# Average, median, max score
-avg_score = np.mean(df["score"])
-median_score = np.median(df["score"])
-max_score = np.max(df["score"])
-
-print(f"Average score: {avg_score}")
-print(f"Median score: {median_score}")
-print(f"Max score: {max_score}\n")
-
-# -------------------------------
-# Step 6: Engagement Analysis
-# -------------------------------
-
-# Correlation between score and comments
-correlation = df[["score", "num_comments"]].corr()
-
-print("Correlation between score and number of comments:")
-print(correlation, "\n")
-
-# -------------------------------
-# Step 7: Category-wise Performance
-# -------------------------------
-
-print("Average score per category:")
-avg_category_score = df.groupby("category")["score"].mean()
-print(avg_category_score, "\n")
-
-# -------------------------------
-# Step 8: Insights (Important for Marks)
-# -------------------------------
-
-print("Insights:")
-
 top_category = category_counts.idxmax()
-print(f"- Most frequent category: {top_category}")
 
-best_category = avg_category_score.idxmax()
-print(f"- Category with highest average score: {best_category}")
+print(f"\nMost stories in: {top_category} ({category_counts.max()} stories)")
 
-print("- Higher score generally relates to higher engagement (comments), depending on correlation value.")
+# Story with most comments
+max_comments_row = df.loc[df["num_comments"].idxmax()]
+
+print(f"\nMost commented story: \"{max_comments_row['title']}\" — {max_comments_row['num_comments']} comments")
+
+
+# -------------------------------
+# 3. ADD NEW COLUMNS
+# -------------------------------
+
+# Engagement = comments per score
+df["engagement"] = df["num_comments"] / (df["score"] + 1)
+
+# Popular flag
+df["is_popular"] = df["score"] > avg_score
+
+
+# -------------------------------
+# 4. SAVE UPDATED DATA
+# -------------------------------
+
+os.makedirs("data", exist_ok=True)
+
+# output_file = "data/trends_analysed.csv"
+output_file = r"C:\Users\rajit\Desktop\data\trends_analysed.csv"
+
+df.to_csv(output_file, index=False)
+
+print(f"\nSaved to {output_file}")
