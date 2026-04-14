@@ -1,34 +1,56 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# Task 2 — Data Processing (task2_data_processing.py)
-
-# In[1]:
-
-
 import pandas as pd
+import os
 
-# Load data
-df = pd.read_csv("data.csv")
+# File path (update date if needed)
+file_path = "data/trends_20260414.json"
 
-# Remove 'isPartial' column if exists
-if 'isPartial' in df.columns:
-    df = df.drop(columns=['isPartial'])
+# -------------------------------
+# 1. LOAD JSON FILE
+# -------------------------------
+df = pd.read_json(file_path)
 
-# Handle missing values
-df = df.fillna(method='ffill')
+print(f"Loaded {len(df)} stories from {file_path}")
 
-# Remove duplicates
-df = df.drop_duplicates()
+# -------------------------------
+# 2. CLEAN THE DATA
+# -------------------------------
 
-# Save cleaned data
-df.to_csv("cleaned_data.csv", index=False)
+# Remove duplicates based on post_id
+df = df.drop_duplicates(subset="post_id")
+print(f"After removing duplicates: {len(df)}")
 
-print("Data cleaned and saved to cleaned_data.csv")
+# Remove rows with missing critical fields
+df = df.dropna(subset=["post_id", "title", "score"])
+print(f"After removing nulls: {len(df)}")
 
+# Convert data types
+df["score"] = df["score"].astype(int)
+df["num_comments"] = df["num_comments"].astype(int)
 
-# In[ ]:
+# Remove low-quality stories (score < 5)
+df = df[df["score"] >= 5]
+print(f"After removing low scores: {len(df)}")
 
+# Remove extra whitespace in title
+df["title"] = df["title"].str.strip()
 
+# -------------------------------
+# 3. SAVE AS CSV
+# -------------------------------
 
+# Ensure data folder exists
+if not os.path.exists("data"):
+    os.makedirs("data")
+os.makedirs(r"C:\Users\rajit\Desktop\data", exist_ok=True)
+output_file = r"C:\Users\rajit\Desktop\data\trends_clean.csv"
+# output_file = "data/trends_clean.csv"
 
+df.to_csv(output_file, index=False)
+
+print(f"\nSaved {len(df)} rows to {output_file}")
+
+# -------------------------------
+# SUMMARY: STORIES PER CATEGORY
+# -------------------------------
+print("\nStories per category:")
+print(df["category"].value_counts())
