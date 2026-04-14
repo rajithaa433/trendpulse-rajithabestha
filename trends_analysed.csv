@@ -1,0 +1,329 @@
+post_id,title,category,score,num_comments,author,collected_at,engagement,is_popular
+47762901,An AI Vibe Coding Horror Story,technology,54,23,teichmann,2026-04-14 14:49:20,0.41818181818181815,False
+47760529,DaVinci Resolve – Photo,technology,535,127,thebiblelover7,2026-04-14 14:49:22,0.23694029850746268,True
+47760764,A new spam policy for “back button hijacking”,technology,330,195,zdw,2026-04-14 14:49:24,0.5891238670694864,True
+47762641,Introspective Diffusion Language Models,technology,24,5,zagwdt,2026-04-14 14:49:26,0.2,False
+47755629,Someone bought 30 WordPress plugins and planted a backdoor in all of them,technology,930,263,speckx,2026-04-14 14:49:27,0.2824919441460795,True
+47762060,The secrets of the Shinkansen,technology,67,47,WillDaSilva,2026-04-14 14:49:29,0.6911764705882353,False
+47757495,GitHub Stacked PRs,technology,708,372,ezekg,2026-04-14 14:49:30,0.5246826516220028,True
+47761609,TanStack Start Now Support React Server Components,technology,54,38,polywock,2026-04-14 14:49:32,0.6909090909090909,False
+47762864,Backblaze has stopped backing up your data,technology,11,5,rrreese,2026-04-14 14:49:33,0.4166666666666667,False
+47759709,Lean proved this program correct; then I found a bug,technology,243,118,bumbledraven,2026-04-14 14:49:35,0.48360655737704916,True
+47761997,Distributed DuckDB Instance,technology,46,8,citguru,2026-04-14 14:49:36,0.1702127659574468,False
+47759341,WiiFin – Jellyfin Client for Nintendo Wii,technology,152,67,throwawayk7h,2026-04-14 14:49:38,0.43790849673202614,False
+47711148,A soft robot has no problem moving with no motor and no gears,technology,27,3,hhs,2026-04-14 14:49:40,0.10714285714285714,False
+47761625,Multi-Agentic Software Development Is a Distributed Systems Problem,technology,29,8,tie-in,2026-04-14 14:49:41,0.26666666666666666,False
+47761723,MOS tech 6502 8-bit microprocessor in pure SQL powered by Postgres,technology,15,1,adunk,2026-04-14 14:49:43,0.0625,False
+47718284,Design and implementation of DuckDB internals,technology,117,8,mpweiher,2026-04-14 14:49:44,0.06779661016949153,False
+47753472,Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets,sports,416,234,m-hodges,2026-04-14 14:49:46,0.5611510791366906,True
+47761825,Roblox devs now need a subscription to share their games freely,sports,47,41,hallole,2026-04-14 14:49:48,0.8541666666666666,False
+47708457,Rust Threads on the GPU,technology,65,21,PaulHoule,2026-04-14 14:49:49,0.3181818181818182,False
+47751781,US appeals court declares 158-year-old home distilling ban unconstitutional,technology,384,255,t-3,2026-04-14 14:49:50,0.6623376623376623,True
+47705390,Lumina – a statically typed web-native language for JavaScript and WASM,technology,8,3,light_ideas,2026-04-14 14:49:52,0.3333333333333333,False
+47715681,Repository Pattern with Hygienic Macros in Scheme – Lisp,technology,6,0,jjba23,2026-04-14 14:49:53,0.0,False
+47758347,N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?,technology,64,18,mufeedvh,2026-04-14 14:49:55,0.27692307692307694,False
+47752819,Make tmux pretty and usable (2024),technology,377,235,speckx,2026-04-14 14:49:56,0.6216931216931217,True
+47716805,Anastasia (1997) live action reference material,technology,23,3,hyperific,2026-04-14 14:49:58,0.125,False
+47728970,"Write less code, be more responsible",technology,87,54,orhunp_,2026-04-14 14:49:59,0.6136363636363636,False
+47756321,How to make Firefox builds 17% faster,technology,178,34,mbitsnbites,2026-04-14 14:50:00,0.18994413407821228,False
+47762006,Can Claude Fly a Plane?,technology,78,71,casi,2026-04-14 14:50:01,0.8987341772151899,False
+47750669,Android now stops you sharing your location in photos,technology,368,297,edent,2026-04-14 14:50:02,0.8048780487804879,True
+47753689,Building a CLI for all of Cloudflare,technology,302,100,soheilpro,2026-04-14 14:50:04,0.33003300330033003,True
+47729350,I just want simple S3,technology,174,88,g0xA52A2A,2026-04-14 14:50:05,0.5028571428571429,False
+47716409,"A name is succession, legacy and celebration in Japan's Kabuki theater",technology,10,1,mooreds,2026-04-14 14:50:06,0.09090909090909091,False
+47729046,Air Powered Segment Display? [video],technology,104,11,ProfDreamer,2026-04-14 14:50:08,0.10476190476190476,False
+47761310,Math Is Still Catching Up to the Mysterious Genius of Srinivasa Ramanujan (2024),technology,69,12,paulpauper,2026-04-14 14:50:09,0.17142857142857143,False
+47715389,"I shipped a transaction bug, so I built a linter",technology,40,6,leonhfr,2026-04-14 14:50:10,0.14634146341463414,False
+47756772,GAIA – Open-source framework for building AI agents that run on local hardware,technology,128,30,galaxyLogic,2026-04-14 14:50:11,0.23255813953488372,False
+47743728,Tracking down a 25% Regression on LLVM RISC-V,technology,117,22,luu,2026-04-14 14:50:13,0.1864406779661017,False
+47728823,What we learned building a Rust runtime for TypeScript,technology,70,12,vinhnx,2026-04-14 14:50:14,0.16901408450704225,False
+47756569,"Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours",entertainment,148,38,cvrajeesh,2026-04-14 14:50:15,0.2550335570469799,False
+47761613,UpDown: Efficient Manycore based on Many Threading & Scalable Memory Parallelism,technology,8,1,matt_d,2026-04-14 14:50:17,0.1111111111111111,False
+47756036,Visualizing CPU Pipelining (2024),technology,83,10,flipacholas,2026-04-14 14:50:18,0.11904761904761904,False
+47760027,The Journal of C Language Translation,technology,23,1,kristianp,2026-04-14 14:50:20,0.041666666666666664,False
+47755209,B-trees and database indexes (2024),technology,108,40,tosh,2026-04-14 14:50:21,0.3669724770642202,False
+47715256,Tool to explore regularly sampled time series,technology,15,0,rsva,2026-04-14 14:50:23,0.0,False
+47750872,Servo is now available on crates.io,technology,450,145,ffin,2026-04-14 14:50:25,0.3215077605321508,True
+47752466,MEMS Array Chip Can Project Video the Size of a Grain of Sand,technology,86,38,bookofjoe,2026-04-14 14:50:26,0.4367816091954023,False
+47751621,Initial mainline video capture and camera support for Rockchip RK3588,technology,84,24,mfilion,2026-04-14 14:50:28,0.2823529411764706,False
+47759416,Why it’s impossible to measure England’s coastline,technology,30,27,BiraIgnacio,2026-04-14 14:50:29,0.8709677419354839,False
+47729694,Introduction to Obsidian,technology,177,128,bryanhogan,2026-04-14 14:50:30,0.7191011235955056,False
+47728192,"If you started a company two years ago, many assumptions are no longer true",technology,186,136,tie-in,2026-04-14 14:50:32,0.7272727272727273,True
+47760750,Sometimes powerful people just do dumb shit,technology,199,116,zdw,2026-04-14 14:50:34,0.58,True
+47759292,The AI revolution in math has arrived,technology,83,48,sonabinu,2026-04-14 14:50:35,0.5714285714285714,False
+47755573,New Orleans's Car-Crash Conspiracy,technology,109,62,Geekette,2026-04-14 14:50:37,0.5636363636363636,False
+47751936,"Microsoft isn't removing Copilot from Windows 11, it's just renaming it",technology,350,262,bundie,2026-04-14 14:50:39,0.7464387464387464,True
+47746610,All elementary functions from a single binary operator,technology,815,263,pizza,2026-04-14 14:50:40,0.32230392156862747,True
+47756876,Just Enough Chimera Linux,technology,57,17,speckx,2026-04-14 14:50:42,0.29310344827586204,False
+47757469,We need Post-Quantum Cryptography more than ever,technology,18,0,ethanhawksley,2026-04-14 14:50:43,0.0,False
+47754379,"The Future of Everything Is Lies, I Guess: Safety",technology,302,166,aphyr,2026-04-14 14:50:44,0.5478547854785478,True
+47757426,Ascending into the Realm of Japanese Charts,technology,55,2,speckx,2026-04-14 14:50:46,0.03571428571428571,False
+47752884,This year’s insane timeline of hacks,technology,313,181,laurex,2026-04-14 14:50:47,0.5764331210191083,True
+47744255,I ran Gemma 4 as a local model in Codex CLI,technology,261,108,dvaughan,2026-04-14 14:50:48,0.4122137404580153,True
+47761720,"Microsoft exec suggests AI agents will need to buy licenses, just like employees",technology,13,6,maxloh,2026-04-14 14:50:50,0.42857142857142855,False
+47750821,Michigan 'digital age' bills pulled after privacy concerns raised,technology,215,123,iamnothere,2026-04-14 14:50:51,0.5694444444444444,True
+47754179,Claude Code may be burning your limits with invisible tokens,technology,41,5,jenic_,2026-04-14 14:50:53,0.11904761904761904,False
+47733217,Exploiting the most prominent AI agent benchmarks,technology,579,139,Anon84,2026-04-14 14:50:54,0.2396551724137931,True
+47755604,Tax Wrapped 2025,technology,114,62,entrapi,2026-04-14 14:50:56,0.5391304347826087,False
+47757013,Verification Debt Is Your Next Headache,technology,19,1,speckx,2026-04-14 14:50:57,0.05,False
+47761616,Sam Altman: Man charged with attempting to murder OpenAI boss,technology,10,1,taspeotis,2026-04-14 14:50:59,0.09090909090909091,False
+47748064,The economics of software teams: Why most engineering orgs are flying blind,technology,399,272,kiyanwang,2026-04-14 14:51:02,0.68,True
+47761105,Google has a secret reference desk,technology,19,5,maxutility,2026-04-14 14:51:03,0.25,False
+47756672,The looming college-enrollment death spiral,technology,102,138,JumpCrisscross,2026-04-14 14:51:05,1.3398058252427185,False
+47746577,State of Homelab 2026,technology,105,92,swq115,2026-04-14 14:51:06,0.8679245283018868,False
+47741701,DIY Soft Drinks,technology,711,222,_Microft,2026-04-14 14:51:08,0.31179775280898875,True
+47754100,Who's Been Impersonating This ProPublica Reporter?,technology,116,2,hn_acker,2026-04-14 14:51:09,0.017094017094017096,False
+47757552,Show HN: Continual Learning with .md,entertainment,24,21,wenhan_zhou,2026-04-14 14:51:11,0.84,False
+47755734,"In Denmark, the spread of solar panels has become a divisive issue",technology,77,154,PaulHoule,2026-04-14 14:51:12,1.9743589743589745,False
+47762272,"Linux 7.0 Released with New Hardware Support, Optimizations and Self-Healing XFS",worldnews,15,0,isaacfrond,2026-04-14 14:51:13,0.0,False
+47738827,Bring Back Idiomatic Design (2023),technology,675,368,phil294,2026-04-14 14:51:14,0.5443786982248521,True
+47739313,Seven countries now generate nearly all their electricity from renewables (2024),technology,654,460,mpweiher,2026-04-14 14:51:16,0.7022900763358778,True
+47738094,JVM Options Explorer,technology,218,112,0x54MUR41,2026-04-14 14:51:18,0.5114155251141552,True
+47745284,Taking on CUDA with ROCm: 'One Step After Another',technology,258,192,mindcrime,2026-04-14 14:51:19,0.7413127413127413,True
+47742200,Show HN: boringBar – a taskbar-style dock replacement for macOS,entertainment,506,287,a-ve,2026-04-14 14:51:21,0.5660749506903353,True
+47737292,Is math big or small?,technology,82,28,robinhouston,2026-04-14 14:51:22,0.3373493975903614,False
+47759428,Tom7: No one can force me to have a secure website [video],technology,45,9,Audiophilip,2026-04-14 14:51:24,0.1956521739130435,False
+47739260,Pro Max 5x quota exhausted in 1.5 hours despite moderate usage,technology,732,646,cmaster11,2026-04-14 14:51:25,0.8813096862210096,True
+47747017,"Apple's accidental moat: How the ""AI Loser"" may end up winning",technology,410,362,walterbell,2026-04-14 14:51:28,0.8807785888077859,True
+47741460,How long-distance couples use digital games to facilitate intimacy (2025),sports,128,38,radeeyate,2026-04-14 14:51:30,0.29457364341085274,False
+47702887,Most people can't juggle one ball,technology,499,171,surprisetalk,2026-04-14 14:51:32,0.342,True
+47760781,"Municipal water fluoridation, adolescent IQ and cognition across the life course",technology,13,1,cpncrunch,2026-04-14 14:51:34,0.07142857142857142,False
+47756448,Probing the Planck scale with quantum computation,technology,10,1,haxiomic,2026-04-14 14:51:36,0.09090909090909091,False
+47724352,Filing the corners off my MacBooks,entertainment,1395,668,normanvalentine,2026-04-14 14:51:38,0.4785100286532951,True
+47741527,Ask HN: What Are You Working On? (April 2026),technology,324,1095,david927,2026-04-14 14:51:40,3.3692307692307693,True
+47719490,I gave every train in New York an instrument,technology,386,73,joshuawolk,2026-04-14 14:51:41,0.18863049095607234,True
+47754559,Show HN: Mcptube – Karpathy's LLM Wiki idea applied to YouTube videos,technology,9,0,0xchamin,2026-04-14 14:51:43,0.0,False
+47737876,"Doom, Played over Curl",technology,119,31,creaktive,2026-04-14 14:51:45,0.25833333333333336,False
+47738864,Why AI Sucks at Front End,technology,116,160,tobr,2026-04-14 14:51:47,1.3675213675213675,False
+47758880,"When AI Trading Works, You Won't Hear About It",technology,26,4,izyda,2026-04-14 14:51:49,0.14814814814814814,False
+47744132,Uncharted island soon to appear on nautical charts,technology,99,51,tannhaeuser,2026-04-14 14:51:51,0.51,False
+47758453,Your Favorite Movies Were CIA Propaganda [video],entertainment,29,1,joe_mamba,2026-04-14 14:51:55,0.03333333333333333,False
+47736476,Anthropic downgraded cache TTL on March 6th,technology,545,418,lsdmtme,2026-04-14 14:51:57,0.7655677655677655,True
+47738978,"We have a 99% email reputation, but Gmail disagrees",technology,361,302,em-bee,2026-04-14 14:51:59,0.8342541436464088,True
+47737542,Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets,technology,110,14,mpweiher,2026-04-14 14:52:02,0.12612612612612611,False
+47741393,Textbooks and Methods of Note-Taking in Early Modern Europe (2008),entertainment,53,0,mooreds,2026-04-14 14:52:04,0.0,False
+47743628,The peril of laziness lost,technology,462,142,gpm,2026-04-14 14:52:05,0.30669546436285094,True
+47760273,Willingness to fail is now a superpower,technology,8,0,gurjeet,2026-04-14 14:52:07,0.0,False
+47738883,Tell HN: Docker pull fails in Spain due to football Cloudflare block,technology,1114,408,littlecranky67,2026-04-14 14:52:08,0.36591928251121075,True
+47759433,Kiro CLI 2.0,technology,14,0,salkahfi,2026-04-14 14:52:10,0.0,False
+47750259,Point Cloud Allemansrätten,technology,37,6,ColinWright,2026-04-14 14:52:13,0.15789473684210525,False
+47760543,Meta spins up AI version of Mark Zuckerberg to engage with employees,technology,12,3,cratermoon,2026-04-14 14:52:15,0.23076923076923078,False
+47758343,CIA reportedly used Pegasus software during rescue of airman in Iran,technology,38,0,Cider9986,2026-04-14 14:52:17,0.0,False
+47743096,"Zed, A sans for the needs of 21st century (2024)",technology,54,22,yurivish,2026-04-14 14:52:18,0.4,False
+47739174,Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card),entertainment,239,95,Rochus,2026-04-14 14:52:20,0.3958333333333333,True
+47735535,The End of Eleventy,technology,224,186,ValentineC,2026-04-14 14:52:23,0.8266666666666667,True
+47738343,The Physics of GPS,science,160,35,maouida,2026-04-14 14:52:24,0.21739130434782608,False
+47759989,I built my business on Instagram. It disappeared overnight,technology,8,0,gscott,2026-04-14 14:52:26,0.0,False
+47758831,FAA Says Military Can Use Anti-Drone Lasers in U.S. Airspace,technology,22,5,bookofjoe,2026-04-14 14:52:28,0.21739130434782608,False
+47749674,Show HN: I built a social media management tool in 3 weeks with Claude and Codex,technology,178,123,JanSchu,2026-04-14 14:52:30,0.6871508379888268,False
+47757838,"Claude is getting worse, according to Claude",technology,27,10,lschueller,2026-04-14 14:52:32,0.35714285714285715,False
+47728879,Mark's Magic Multiply,technology,56,9,luu,2026-04-14 14:52:36,0.15789473684210525,False
+47743730,"Google removes ""Doki Doki Literature Club"" from Google Play",technology,514,287,super256,2026-04-14 14:52:38,0.5572815533980583,True
+47717690,Cooperative Vectors Introduction,technology,51,3,JasperBekkers,2026-04-14 14:52:41,0.057692307692307696,False
+47706423,An Interview with Pat Gelsinger,technology,109,72,zdw,2026-04-14 14:52:45,0.6545454545454545,False
+47754480,From Pal to Verilog: Writing the A4092 Logic from Scratch,technology,6,0,freediver,2026-04-14 14:52:49,0.0,False
+47719740,1D Chess,technology,987,174,burnt-resistor,2026-04-14 14:52:52,0.17611336032388664,True
+47758651,Blurry iPhone Text Picture Problem: Is There an Easy Solution I'm Missing?,technology,18,3,andy99,2026-04-14 14:52:54,0.15789473684210525,False
+47756231,New Mexico governor signs nation's first universal child care law,technology,27,12,eatonphil,2026-04-14 14:52:56,0.42857142857142855,False
+47759541,Tourists to Australia to have social media vetted under Trumpian Coalition,technology,15,11,KnuthIsGod,2026-04-14 14:52:58,0.6875,False
+47744540,A perfectable programming language,technology,204,122,yuppiemephisto,2026-04-14 14:53:01,0.5951219512195122,True
+47730712,The Problem That Built an Industry,technology,148,49,ShaggyHotDog,2026-04-14 14:53:03,0.3288590604026846,False
+47732020,Small models also found the vulnerabilities that Mythos found,technology,1268,340,dominicq,2026-04-14 14:53:05,0.26792750197005516,True
+47737376,Phyphox – Physical Experiments Using a Smartphone,technology,254,39,_Microft,2026-04-14 14:53:11,0.15294117647058825,True
+47694064,Every plane you see in the sky – you can now follow it from the cockpit in 3D,technology,389,73,coolwulf,2026-04-14 14:53:14,0.18717948717948718,True
+47755805,Evaluation of Claude Mythos Preview's cyber capabilities,technology,52,29,dgavey,2026-04-14 14:53:19,0.5471698113207547,False
+47742461,IrDA,technology,37,7,Sniffnoy,2026-04-14 14:53:22,0.18421052631578946,False
+47731838,Keeping a Postgres Queue Healthy,technology,116,28,tanelpoder,2026-04-14 14:53:26,0.23931623931623933,False
+47747595,A Canonical Generalization of OBDD,technology,26,14,luu,2026-04-14 14:53:28,0.5185185185185185,False
+47706560,A Tour of Oodi,technology,173,46,zdw,2026-04-14 14:53:30,0.26436781609195403,False
+47691730,I ported Mac OS X to the Nintendo Wii,technology,1918,328,blkhp19,2026-04-14 14:53:33,0.1709223553934341,True
+47727659,Productive Procrastination,technology,162,50,maxvij,2026-04-14 14:53:37,0.3067484662576687,False
+47748314,Programming Used to Be Free,technology,70,71,yeputons,2026-04-14 14:53:40,1.0,False
+47702890,How Passive Radar Works,technology,197,57,surprisetalk,2026-04-14 14:53:43,0.2878787878787879,True
+47742261,The Triumph of Stupidity (1933),technology,26,1,downbad_,2026-04-14 14:53:44,0.037037037037037035,False
+47721955,"OpenClaw’s memory is unreliable, and you don’t know when it will break",technology,164,178,sonink,2026-04-14 14:53:51,1.0787878787878789,False
+47697870,LittleSnitch for Linux,technology,1369,456,pluc,2026-04-14 14:53:55,0.33284671532846716,True
+47687443,Volunteers turn a fan's recordings of 10K concerts into an online treasure trove,technology,391,76,geox,2026-04-14 14:54:03,0.19387755102040816,True
+47759738,Little LaTeX Pearls,technology,7,1,birdculture,2026-04-14 14:54:05,0.125,False
+47733561,447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane,technology,263,153,iliatoli,2026-04-14 14:54:06,0.5795454545454546,True
+47756737,Shape Grammar,technology,16,0,o4c,2026-04-14 14:54:10,0.0,False
+47724118,Installing every* Firefox extension,technology,677,79,RohanAdwankar,2026-04-14 14:54:11,0.11651917404129794,True
+47738196,What have been the greatest intellectual achievements? (2017),technology,57,85,o4c,2026-04-14 14:54:15,1.4655172413793103,False
+47714273,Penguin 'Toxicologists' Find PFAS Chemicals in Remote Patagonia,technology,165,80,giuliomagnifico,2026-04-14 14:54:16,0.4819277108433735,False
+47733521,Dark Castle,technology,246,33,evo_9,2026-04-14 14:54:18,0.13360323886639677,True
+47700556,The Zettelkasten method in Obsidian,technology,117,70,rkrizanovskis,2026-04-14 14:54:21,0.5932203389830508,False
+47719942,WireGuard makes new Windows release following Microsoft signing resolution,technology,548,165,zx2c4,2026-04-14 14:54:23,0.3005464480874317,True
+47719968,Compute iOS XNU offset from kernel cache,technology,34,0,tonygo,2026-04-14 14:54:26,0.0,False
+47730981,"The future of everything is lies, I guess – Part 5: Annoyances",technology,280,167,aphyr,2026-04-14 14:54:27,0.594306049822064,True
+47693559,Surelock: Deadlock-Free Mutexes for Rust,technology,245,80,codetheweb,2026-04-14 14:54:29,0.3252032520325203,True
+47760925,"Hacker compromises A16Z-backed phone farm, calling them the 'antichrist'",technology,145,37,wibbily,2026-04-14 14:54:31,0.2534246575342466,False
+47697722,Previously unknown verses by Empedocles found on papyrus,technology,85,21,danielam,2026-04-14 14:54:32,0.2441860465116279,False
+47758802,The Importance of Benchmarks,technology,10,1,FigurativeVoid,2026-04-14 14:54:34,0.09090909090909091,False
+47757657,The Perils of an Over-Optimized Life,technology,13,0,jethronethro,2026-04-14 14:54:39,0.0,False
+47757509,Zig 0.16 Milestone Completed,technology,18,8,praveer13,2026-04-14 14:54:43,0.42105263157894735,False
+47760135,Rewriting Every Syscall in a Linux Binary at Load Time,technology,5,2,riteshnoronha16,2026-04-14 14:54:47,0.3333333333333333,False
+47717847,CPU-Z and HWMonitor compromised,technology,406,107,pashadee,2026-04-14 14:54:50,0.2628992628992629,True
+47695213,Optimal Strategy for Connect 4,technology,317,32,marvinborner,2026-04-14 14:54:52,0.10062893081761007,True
+47720419,Industrial design files for Keychron keyboards and mice,technology,456,147,stingraycharles,2026-04-14 14:55:00,0.32166301969365424,True
+47719602,You can't trust macOS Privacy and Security settings,technology,508,169,zdw,2026-04-14 14:55:07,0.3320235756385069,True
+47727076,Quien – A better WHOIS lookup tool,technology,100,44,bretthopper,2026-04-14 14:55:08,0.43564356435643564,False
+47689793,How much linear memory access is enough?,technology,79,13,PhilipTrettner,2026-04-14 14:55:10,0.1625,False
+47737663,Intel Xpress Resurrection: Reviving a Forgotten EISA Beast,technology,28,1,ankitg12,2026-04-14 14:55:12,0.034482758620689655,False
+47742790,The Closing of the Frontier,technology,188,132,MindGods,2026-04-14 14:55:15,0.6984126984126984,True
+47722562,Nowhere is safe,technology,222,298,sblank,2026-04-14 14:55:20,1.336322869955157,True
+47719274,Helium is hard to replace,technology,376,269,JumpCrisscross,2026-04-14 14:55:21,0.713527851458886,True
+47756711,"From Panthor to RK3588: Advancing graphics, video and SoC support in Kernel 7.0",technology,12,0,losgehts,2026-04-14 14:55:23,0.0,False
+47734822,USB/IP Project: a general USB device sharing system over IP network,technology,42,3,ValentineC,2026-04-14 14:55:24,0.06976744186046512,False
+47750519,Galactic Algorithm,technology,29,0,tmtvl,2026-04-14 14:55:26,0.0,False
+47757166,"How to End the Iran Crisis: Tehran Needs Positive Incentives, Not Just Pressure",technology,7,0,verdverm,2026-04-14 14:55:27,0.0,False
+47725583,Artemis II safely splashes down,technology,1280,449,areoform,2026-04-14 14:55:30,0.3505074160811866,True
+47731998,Phone Trips,technology,75,6,bookofjoe,2026-04-14 14:55:32,0.07894736842105263,False
+47710466,Kagi Product Tips – Customize Your Search Results with URL Redirects,technology,183,36,treetalker,2026-04-14 14:55:39,0.1956521739130435,True
+47730370,Bitcoin miners are losing on every coin produced as difficulty drops,technology,240,226,PaulHoule,2026-04-14 14:55:42,0.9377593360995851,True
+47712718,I still prefer MCP over skills,technology,458,372,gmays,2026-04-14 14:55:45,0.8104575163398693,True
+47732697,How to build a `Git diff` driver,technology,130,14,zdw,2026-04-14 14:55:50,0.10687022900763359,False
+47685320,Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator,technology,633,835,jfirebaugh,2026-04-14 14:55:54,1.3170347003154574,True
+47685984,Investigating Split Locks on x86-64,technology,78,27,ingve,2026-04-14 14:55:56,0.34177215189873417,False
+47738514,"Internet outage in Iran reaches 1,008 hours",technology,166,120,miadabdi,2026-04-14 14:55:57,0.718562874251497,False
+47733971,Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023),technology,234,172,krackers,2026-04-14 14:56:01,0.7319148936170212,True
+47743077,Claude Opus 4.6 accuracy on BridgeBench hallucination test drops from 83% to 68%,technology,70,20,bratao,2026-04-14 14:56:04,0.28169014084507044,False
+47716809,"Intel 486 CPU announced April 10, 1989",technology,189,166,jnord,2026-04-14 14:56:05,0.8736842105263158,True
+47720719,The difficulty of making sure your website is broken,technology,71,38,mcpherrinm,2026-04-14 14:56:12,0.5277777777777778,False
+47688678,They're made out of meat (1991),technology,635,180,surprisetalk,2026-04-14 14:56:14,0.2830188679245283,True
+47707762,"Hegel, a universal property-based testing protocol and family of PBT libraries",technology,133,41,PaulHoule,2026-04-14 14:56:17,0.30597014925373134,False
+47756798,Digital sovereignty isn't just a buzzword – it's the future,technology,6,1,abdelhousni,2026-04-14 14:56:20,0.14285714285714285,False
+47686549,Microsoft terminated the account VeraCrypt used to sign Windows drivers,technology,1291,500,super256,2026-04-14 14:56:23,0.38699690402476783,True
+47698046,Layoff Thinking,technology,100,96,zdw,2026-04-14 14:56:25,0.9504950495049505,False
+47732945,Brocards for Vulnerability Triage,technology,21,0,woodruffw,2026-04-14 14:56:26,0.0,False
+47701100,Creating the Futurescape for the Fifth Element (2019),technology,135,111,nixass,2026-04-14 14:56:30,0.8161764705882353,False
+47687248,Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones,technology,612,599,ra,2026-04-14 14:56:33,0.9771615008156607,True
+47750522,Struggling to heat your home? How about 500 Raspberry Pi units? (2025),technology,19,14,cmsefton,2026-04-14 14:56:34,0.7,False
+47709130,Reverse engineering Gemini's SynthID detection,technology,175,54,_tk_,2026-04-14 14:56:42,0.3068181818181818,False
+47735779,Building a Z-Machine in the worst possible language – Whitebeard's Realm,technology,29,6,techbelly,2026-04-14 14:56:44,0.2,False
+47701148,Top laptops to use with FreeBSD,technology,333,193,fork-bomber,2026-04-14 14:56:46,0.5778443113772455,True
+47741892,Homelab,technology,12,0,taubek,2026-04-14 14:56:50,0.0,False
+47741634,Building a SaaS in 2026 Using Only EU Infrastructure,technology,190,61,sparkling,2026-04-14 14:57:00,0.3193717277486911,True
+47751669,They See Your Photos,technology,128,111,cyberlurker,2026-04-14 14:57:01,0.8604651162790697,False
+47691464,Vinyl Cache and Varnish Cache,technology,54,26,Foxboron,2026-04-14 14:57:03,0.4727272727272727,False
+47703805,PGLite Evangelism,technology,78,26,surprisetalk,2026-04-14 14:57:05,0.3291139240506329,False
+47727711,20 years on AWS and never not my job,technology,256,65,cperciva,2026-04-14 14:57:06,0.2529182879377432,True
+47694983,Expanding Swift's IDE Support,technology,138,71,frizlab,2026-04-14 14:57:08,0.5107913669064749,False
+47742002,Reading Is Magic,technology,58,34,gHeadphone,2026-04-14 14:57:13,0.576271186440678,False
+47693153,Understanding the Kalman filter with a simple radar example,technology,431,66,alex_be,2026-04-14 14:57:15,0.1527777777777778,True
+47702499,Lichess and Take Take Take Sign Cooperation Agreement,technology,195,60,stevage,2026-04-14 14:57:16,0.30612244897959184,True
+47707477,Old laptops in a colo as low cost servers,technology,395,244,argentum47,2026-04-14 14:57:18,0.6161616161616161,True
+47726340,40x Faster Binary Search,technology,33,14,teleforce,2026-04-14 14:57:21,0.4117647058823529,False
+47757226,Why Rural Hospitals Close,technology,9,2,speckx,2026-04-14 14:57:23,0.2,False
+47730229,Borges' cartographers and the tacit skill of reading LM output,technology,39,10,galsapir,2026-04-14 14:57:26,0.25,False
+47705187,The best seat in town,technology,44,16,NaOH,2026-04-14 14:57:28,0.35555555555555557,False
+47743447,Standard Control Flow Flattening is fundamentally broken,technology,10,0,BlackVectorOps,2026-04-14 14:57:31,0.0,False
+47706140,Unfolder for Mac – A 3D model unfolding tool for creating papercraft,technology,300,57,codazoda,2026-04-14 14:57:33,0.1893687707641196,True
+47703419,Meta removes ads for social media addiction litigation,technology,629,253,giuliomagnifico,2026-04-14 14:57:34,0.4015873015873016,True
+47722262,Watgo – A WebAssembly Toolkit for Go,technology,111,8,ibobev,2026-04-14 14:57:38,0.07142857142857142,False
+47689648,ML promises to be profoundly weird,technology,612,602,pabs3,2026-04-14 14:57:40,0.9820554649265906,True
+47686046,The Art of Risk Management (2017),technology,54,15,walterbell,2026-04-14 14:57:43,0.2727272727272727,False
+47691538,What is RISC-V and why it matters to Canonical,technology,135,121,fork-bomber,2026-04-14 14:57:45,0.8897058823529411,False
+47742680,Apple has removed most of the towns and villages in Lebanon from Apple maps?,technology,352,187,thepasswordis,2026-04-14 14:57:48,0.5297450424929179,True
+47720827,A compelling title that is cryptic enough to get you to take action on it,technology,290,144,mooreds,2026-04-14 14:57:53,0.4948453608247423,True
+47710007,Moving from WordPress to Jekyll (and static site generators in general),technology,97,55,rgrieselhuber,2026-04-14 14:57:58,0.5612244897959183,False
+47754606,The rational conclusion of doomerism is violence,technology,88,160,thedudeabides5,2026-04-14 14:57:59,1.797752808988764,False
+47749497,Why do NES colors look so different in emulators? [video],technology,10,0,JuniperMesos,2026-04-14 14:58:01,0.0,False
+47756497,'Has the Rust programming language's popularity reached its plateau?',technology,6,0,MilnerRoute,2026-04-14 14:58:04,0.0,False
+47706268,EFF is leaving X,technology,1425,1303,gregsadetsky,2026-04-14 14:58:08,0.9137447405329593,True
+47699181,Open source security at Astral,technology,365,109,vinhnx,2026-04-14 14:58:09,0.2978142076502732,True
+47741512,Why Is Sherlock Holmes English?,technology,7,1,KitN,2026-04-14 14:58:11,0.125,False
+47744510,Microsoft engineer says original Task Manager was only 80KB to run on 90s comps,technology,31,13,thunderbong,2026-04-14 14:58:13,0.40625,False
+47737383,Apple update looks like Czech mate for locked-out iPhone user,technology,332,216,OuterVale,2026-04-14 14:58:14,0.6486486486486487,True
+47690977,"Microsoft terminates VeraCrypt account, halting Windows updates",technology,594,246,donohoe,2026-04-14 14:58:17,0.4134453781512605,True
+47753437,Nordics and Estonia rolling out offline card payment backup in case internet cut (2025),technology,20,2,_____k,2026-04-14 14:58:19,0.09523809523809523,False
+47695815,Simulating a 2D Quadcopter from Scratch,technology,31,12,daww,2026-04-14 14:58:21,0.375,False
+47745222,Welcome to Agents Week,technology,5,0,cebert,2026-04-14 14:58:29,0.0,False
+47744598,Inventors Who Didn't Invent What They Are Famous for Inventing,technology,29,11,fortran77,2026-04-14 14:58:30,0.36666666666666664,False
+47685644,Introduction to Nintendo DS Programming,technology,243,58,medbar,2026-04-14 14:58:32,0.23770491803278687,True
+47750931,DuckLake v1.0,technology,18,1,henrikhorluck,2026-04-14 14:58:33,0.05263157894736842,False
+47685739,Revision Demoparty 2026: Razor1911 [video],technology,384,133,tetrisgm,2026-04-14 14:58:41,0.34545454545454546,True
+47686431,C++: Freestanding Standard Library,technology,45,10,ingve,2026-04-14 14:58:45,0.21739130434782608,False
+47751619,2025 Tesla Cybertruck: Regular Car Reviews [video],technology,14,4,Topfi,2026-04-14 14:58:48,0.26666666666666666,False
+47703123,How Pizza Tycoon simulated traffic on a 25 MHz CPU,technology,303,62,FinnKuhn,2026-04-14 14:58:51,0.20394736842105263,True
+47701572,"Wit, unker, Git: The lost medieval pronouns of English intimacy",technology,215,147,eigenspace,2026-04-14 14:58:53,0.6805555555555556,True
+47738520,Put your SSH keys in your TPM chip,technology,6,0,type0,2026-04-14 14:58:56,0.0,False
+47741557,How Beyond Meat sank from a $14B plant-based protein powerhouse to a penny stock,technology,30,26,bookofjoe,2026-04-14 14:59:01,0.8387096774193549,False
+47700388,Help Keep Thunderbird Alive,technology,577,390,playfultones,2026-04-14 14:59:04,0.6747404844290658,True
+47748036,"X Randomly Banning Users for ""Inauthentic Behavior""",technology,87,88,crmrc114,2026-04-14 14:59:06,1.0,False
+47708041,PicoZ80 – Drop-In Z80 Replacement,technology,225,34,rickcarlino,2026-04-14 14:59:07,0.1504424778761062,True
+47717447,Travel writing's biggest myth (and why everyone is lying),technology,23,1,speckx,2026-04-14 14:59:14,0.041666666666666664,False
+47714573,Artemis II and the invisible hazard on the way to the Moon,technology,86,67,zeristor,2026-04-14 14:59:15,0.7701149425287356,False
+47710149,Microsoft is employing dark patterns to goad users into paying for storage?,technology,393,244,jpmitchell,2026-04-14 14:59:18,0.6192893401015228,True
+47743878,The Moon Just Got a New Scar,technology,18,1,johnbarron,2026-04-14 14:59:23,0.05263157894736842,False
+47726784,Bringing Rust to the Pixel Baseband,technology,26,2,el_duderino,2026-04-14 14:59:25,0.07407407407407407,False
+47719975,Bluesky April 2026 Outage Post-Mortem,technology,139,78,jcalabro,2026-04-14 14:59:30,0.5571428571428572,False
+47734856,Aero and Y2K Webring,technology,8,0,jack-bodine,2026-04-14 14:59:31,0.0,False
+47756930,"Brazil's top labor inspector fired for adding China's BYD to 'dirty list,'",technology,12,0,tartoran,2026-04-14 14:59:33,0.0,False
+47684514,Protect your shed,technology,317,84,baely,2026-04-14 14:59:34,0.2641509433962264,True
+47759990,YouTube removes pro-Iran channel producing anti-Trump videos,technology,14,1,cramsession,2026-04-14 14:59:38,0.06666666666666667,False
+47736331,TigerBeetle: A Trillion Transactions [video],technology,10,3,adityaathalye,2026-04-14 14:59:39,0.2727272727272727,False
+47760633,Everyone Has Trump's Phone Number Now,technology,6,0,Cider9986,2026-04-14 14:59:43,0.0,False
+47710907,Many African families spend fortunes burying their dead,technology,217,217,powera,2026-04-14 14:59:44,0.9954128440366973,True
+47690609,Deterministic Primality Testing for Limited Bit Width,technology,35,4,ibobev,2026-04-14 14:59:48,0.1111111111111111,False
+47683376,JSIR: A High-Level IR for JavaScript,technology,84,32,nnx,2026-04-14 14:59:50,0.3764705882352941,False
+47736298,US appeals court declares 158-year-old home distilling ban unconstitutional,technology,243,292,Jimmc414,2026-04-14 14:59:51,1.1967213114754098,True
+47700662,Today Is CSS Naked Day,technology,41,4,edent,2026-04-14 14:59:54,0.09523809523809523,False
+47733265,Windows Defender Is Being Used to Hack Windows,technology,16,3,weaksauce,2026-04-14 14:59:59,0.17647058823529413,False
+47733229,The Center Has a Bias,technology,14,5,yomismoaqui,2026-04-14 15:00:02,0.3333333333333333,False
+47758502,Ask HN: What are you using OpenClaw or agents for?,technology,7,3,bmau5,2026-04-14 15:00:05,0.375,False
+47703065,Session is shutting down in 90 days,technology,148,181,balamatom,2026-04-14 15:00:06,1.2147651006711409,False
+47713584,Afrika Bambaataa has died,technology,185,65,mellosouls,2026-04-14 15:00:11,0.34946236559139787,True
+47735121,The oldest known evidence of stitched clothing,technology,5,1,breve,2026-04-14 15:00:16,0.16666666666666666,False
+47737899,Linux kernel doesn't care about your disk health,technology,7,0,khazit,2026-04-14 15:00:18,0.0,False
+47687464,Mario and Earendil,technology,68,40,doppp,2026-04-14 15:00:19,0.5797101449275363,False
+47737469,Is SVG the Final Frontier?,technology,7,0,swazzy,2026-04-14 15:00:22,0.0,False
+47690405,A security scanner as fast as a linter – written in Rust,technology,53,21,peaktwilight,2026-04-14 15:00:24,0.3888888888888889,False
+47731049,Pizza Legacy an Open-Source Reimplementation of Pizza Connection (Pizza Tycoon),technology,8,1,doener,2026-04-14 15:00:25,0.1111111111111111,False
+47736289,Method to reverse cellular ageing is about to be tested in humans,technology,34,1,jawiggins,2026-04-14 15:00:32,0.02857142857142857,False
+47759161,DOJ Is Using a Grand Jury to Force Reddit to Unmask an Anonymous User,technology,10,4,HotGarbage,2026-04-14 15:00:35,0.36363636363636365,False
+47698512,A Visual Guide to Gemma 4,technology,29,1,vismit2000,2026-04-14 15:00:37,0.03333333333333333,False
+47703528,"The Future of Everything Is Lies, I Guess: Part 3 – Culture",technology,138,105,aphyr,2026-04-14 15:00:40,0.7553956834532374,False
+47759037,Linux Kernel 7.0,technology,8,0,neustradamus,2026-04-14 15:00:42,0.0,False
+47740315,Eternity in six hours: Intergalactic spreading of intelligent life (2013),technology,55,71,wallflower,2026-04-14 15:00:45,1.2678571428571428,False
+47719522,You're Looking at the Wrong Pretext Demo,technology,15,0,speckx,2026-04-14 15:00:47,0.0,False
+47712222,New iPhone age and identity checks restrict internet freedom in the UK,technology,229,143,josephcsible,2026-04-14 15:00:48,0.6217391304347826,True
+47732623,We ran Doom on a 40 year old printer controller (Agfa Compugraphic 9000PS) [video],technology,8,0,zdw,2026-04-14 15:00:51,0.0,False
+47744585,Distilling 100B+ Models 40x Faster with TRL,technology,12,0,kashifr,2026-04-14 15:00:53,0.0,False
+47736217,Emergency Prices: How Private Equity Captured the Ambulance Market,technology,15,2,walterbell,2026-04-14 15:00:58,0.125,False
+47722913,DOJ Top Antitrust Litigators Exit After Ticketmaster Accord,technology,107,22,1vuio0pswjnm7,2026-04-14 15:01:03,0.2037037037037037,False
+47713265,"Installing OpenBSD on the Pomera DM250{,XY?}",technology,19,2,jandeboevrie,2026-04-14 15:01:08,0.1,False
+47693585,How Costco Won in Japan (2025),technology,47,27,gmays,2026-04-14 15:01:10,0.5625,False
+47749544,They're Rich but Not Famous–and They're Suddenly Everywhere,technology,5,1,paulpauper,2026-04-14 15:01:13,0.16666666666666666,False
+47743686,One DNA letter can trigger complete sex reversal,technology,13,2,gmays,2026-04-14 15:01:15,0.14285714285714285,False
+47699396,Flatpak: Complete Sandbox Escape,technology,20,0,eyberg,2026-04-14 15:01:18,0.0,False
+47731139,Voting Through the Veil: John Rawls on selfish vs. selfless voting,technology,5,0,zdw,2026-04-14 15:01:20,0.0,False
+47697641,Claude Managed Agents Overview,technology,40,24,NicoJuicy,2026-04-14 15:01:22,0.5853658536585366,False
+47727619,Splitting the Web (2023),technology,7,0,0928374082,2026-04-14 15:01:23,0.0,False
+47683042,VFX HQ: Visual Effects Headquarters (2000),technology,17,0,exvi,2026-04-14 15:01:35,0.0,False
+47736698,Native Raspberry Pi Version of the Oberon System 3,technology,11,0,xkriva11,2026-04-14 15:01:36,0.0,False
+47690434,Iran demands Bitcoin fees for ships passing Hormuz during ceasefire,technology,174,277,pavlov,2026-04-14 15:01:41,1.582857142857143,False
+47760304,Wyden Urges House to Reject Handing Trump Unchecked Surveillance Authority,technology,9,0,Cider9986,2026-04-14 15:01:48,0.0,False
+47731927,Top Performers Are Pathologically Ambitious,technology,30,3,paulpauper,2026-04-14 15:01:53,0.0967741935483871,False
+47744259,Canada revokes crypto firms' registrations,technology,10,1,gnabgib,2026-04-14 15:01:55,0.09090909090909091,False
+47744252,I audited Garry's website after he bragged about 37K LOC/day,technology,15,3,medalblue,2026-04-14 15:01:57,0.1875,False
+47734397,How Transistors Work (1995),technology,7,1,downbad_,2026-04-14 15:01:58,0.125,False
+47736349,EPA Moves to Ease Coal Ash Regulations for Power Plants,technology,15,3,1vuio0pswjnm7,2026-04-14 15:02:10,0.1875,False
+47759176,Philippines accuses China of using cyanide to poison South China Sea atoll,technology,13,0,c420,2026-04-14 15:02:12,0.0,False
+47693047,Claude Managed Agents,technology,169,86,adocomplete,2026-04-14 15:02:14,0.5058823529411764,False
+47743117,Firefox 149 vs. Chrome 147 Web Browser Performance on Linux,technology,13,2,sharjeelsayed,2026-04-14 15:02:19,0.14285714285714285,False
+47735224,Oxygen made from Moon dust for first time,technology,18,2,jonbaer,2026-04-14 15:02:20,0.10526315789473684,False
+47685685,Acoustic Eavesdropping with Telecom Fiber Optic Cables,technology,24,0,Chaucer,2026-04-14 15:02:22,0.0,False
+47684898,Open Models have crossed a threshold,technology,31,2,gmays,2026-04-14 15:02:27,0.0625,False
+47732249,"14,000 Images of the French Revolution Released Online (2014)",technology,28,1,downbad_,2026-04-14 15:02:28,0.034482758620689655,False
+47727284,We Only Learn from Error,technology,9,1,kokopelli,2026-04-14 15:02:30,0.1,False
+47704687,"A complete GPT language model in ~600 lines of C#, zero dependencies",technology,26,4,evo_9,2026-04-14 15:02:36,0.14814814814814814,False
+47729926,Hungary Is a Laboratory for Illiberal Nationalism. The Results Are In,technology,46,22,rwmj,2026-04-14 15:02:38,0.46808510638297873,False
+47741998,The Implementation of Functional Programming Languages (1987),technology,9,1,downbad_,2026-04-14 15:02:39,0.1,False
+47725765,Two Japanese suppliers commit to keeping Blu-ray discs and drives in supply,technology,27,3,voxadam,2026-04-14 15:02:43,0.10714285714285714,False
+47731378,Bulldog: A compiler for VLIW architectures [pdf],technology,7,1,rbanffy,2026-04-14 15:02:46,0.125,False
+47726369,RAG 40x faster using binary quantization (2024),technology,8,0,teleforce,2026-04-14 15:02:49,0.0,False
+47718607,Vitamin D May Reduce Buildup of Alzheimer's Tau Proteins,technology,8,1,Jimmc414,2026-04-14 15:02:51,0.1111111111111111,False
+47691686,Little Snitch for Linux,technology,17,2,robenkleene,2026-04-14 15:02:52,0.1111111111111111,False
+47691466,Open Source Security at Astral,technology,37,4,woodruffw,2026-04-14 15:02:54,0.10526315789473684,False
+47741222,Apple's UK age verification brings identity checks to the iPhone,technology,8,3,akyuu,2026-04-14 15:02:55,0.3333333333333333,False
+47738397,"Scientists Have Uncovered a 3rd State of Life, Which Starts After Cell Death",technology,8,0,indigodaddy,2026-04-14 15:03:01,0.0,False
